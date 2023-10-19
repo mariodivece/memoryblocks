@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<EnableNETAnalyzers>true</EnableNETAnalyzers>
+		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+		<AnalysisMode>AllEnabledByDefault</AnalysisMode>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<PackageId>Unosquare.MemoryBlocks</PackageId>
+		<Version>1.0.0-alpha.1</Version>
+		<Authors>mariodivece, unosquare</Authors>
+		<Company>Unosquare</Company>
+		<Product>Unosquare Memory Blocks</Product>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<Description>A library that makes it easy to work with unmanaged memory.</Description>
+		<Copyright>(c) 2019-2023 Unosquare, LLC</Copyright>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>memory, large memory, memory blocks, unmanaged, interop</PackageTags>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/mariodivece/memoryblocks</RepositoryUrl>
+		<PackageReleaseNotes>Please review the examples in the repo for usage.</PackageReleaseNotes>
+	</PropertyGroup>
+</Project>
