@@ -2,7 +2,7 @@
 
 *A no-frills unmanaged memory block library*
 
-[![NuGet](https://img.shields.io/nuget/dt/Unosquare.MemoryBlocks)](https://www.nuget.org/packages/MemoryBlocks)
+[![NuGet](https://img.shields.io/nuget/dt/Unosquare.MemoryBlocks)](https://www.nuget.org/packages/Unosquare.MemoryBlocks)
 
 ---
 
